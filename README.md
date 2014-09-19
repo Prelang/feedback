@@ -1,5 +1,5 @@
 # Prelang Feedback
-This repository is for reporting [Prelang](http://prelang.com) **bugs and feature requests** (as GitHub issues).
+This repository is for reporting [Prelang](http://prelang.com) bugs and requesting features (as GitHub issues).
 
 ## Bugs
 Check if the bug already exists in [the issues labeled *bug*](https://github.com/Prelang/feedback/labels/bug).
